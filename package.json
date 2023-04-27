@@ -1,0 +1,25 @@
+{
+  "name": "lit-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avizcaino/lit-vite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avizcaino/lit-vite/issues"
+  },
+  "homepage": "https://github.com/avizcaino/lit-vite#readme",
+  "devDependencies": {
+    "vite": "^4.3.3"
+  },
+  "dependencies": {
+    "lit-element": "^3.3.2"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
+}
